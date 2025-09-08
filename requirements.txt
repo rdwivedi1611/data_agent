@@ -4,4 +4,4 @@ numpy
 scikit-learn
 openai
 langchain
-pandas-profiling
+ydata-profiling
